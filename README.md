@@ -17,7 +17,6 @@ Here are some of the technologies and tools I work with:
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Database**: MongoDB, PostgreSQL
 - **Version Control**: Git
-- **DevOps**: Docker, AWS
 
 ## Connect with Me
 
