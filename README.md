@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 👨‍💻 I'm currently working at [MountBlue Technologies](https://www.mountblue.io/)
+- 👨‍💻 I have worked at [Mindtree Ltd](https://www.ltimindtree.com/)
 - 🌐 I'm experienced in full-stack web development.
 - 🚀 I love to learn and explore new technologies.
 - 💬 Feel free to reach out to me for any tech-related discussions or collaborations.
