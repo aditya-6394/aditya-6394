@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Aditya Singh 👋</h1>
-  <p>I'm a Full Stack Developer based in India, currently working at MountBlue Technologies. I'm passionate about building web applications and solving real-world problems with technology. I specialize in using Node.js for backend development and enjoy working on various front-end technologies as well.</p>
+  <p>I'm a Full Stack Developer based in India, I have 2 years of work experience working at Mindtree Ltd. I'm passionate about building web applications and solving real-world problems with technology. I specialize in using Node.js for backend development and enjoy working on various front-end technologies as well.</p>
 </div>
 
 ## About Me
